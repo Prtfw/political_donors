@@ -1,3 +1,12 @@
+
+did most of my work code and testing in jupyter notebook, ran out of time before I could make a run.sh and move test files, sorry!
+
+html file of the jupyter notebook with outputs included in src folder.
+
+
+
+
+
 # Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Challenge summary](README.md#challenge-summary)
